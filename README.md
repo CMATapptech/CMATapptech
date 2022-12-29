@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CMATapptech
-- 👀 I’m interested in Web development
+- 👋 Hi, I’m @Chetan Kumrawat
+- 👀 I’m interested in Web and App development
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on 
 
