@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chetan Kumrawat.
+- 👋 Hi, I’m @CHETAN KKUMRAWAT.
 - 👀 I’m interested in Web and App development.
 - 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on 
